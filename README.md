@@ -9,7 +9,7 @@ This python script extracts the company balance sheet report from WSJ Markets.
 1. Download (`Code > Download ZIP`) or clone this repository. If you download the zip package, unzip it.
 2. Setup the Python virtual environment in the above unzipped directory
    ```
-    # python3 -v mvenv /path/to/wsj-financial-report-main
+    # python3 -m venv /path/to/wsj-financial-report-main
     # cd /path/to/wsj-financial-report-main
     # source ./bin/activate
    ```
